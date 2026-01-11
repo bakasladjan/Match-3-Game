@@ -87,3 +87,6 @@ In `BoardManager` you can tweak:
 1. Clone the repository:
    ```bash
    git clone https://github.com/bakasladjan/Match-3.git
+---
+
+## 📸 Media
