@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a653a2a24d8680242bb0a48126be043d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreManager: {instanceID: 0}
+  - levelGoal: {instanceID: 0}
+  - gemPrefab: {fileID: 8109996114671469674, guid: 153fda0571d3b994e9602cb6078a84c7, type: 3}
+  - bombSprite: {instanceID: 0}
+  - rocketHSprite: {instanceID: 0}
+  - rocketVSprite: {instanceID: 0}
+  - discoBallSprite: {instanceID: 0}
+  - bombFXPrefab: {instanceID: 0}
+  - rocketHFXPrefab: {instanceID: 0}
+  - rocketVFXPrefab: {instanceID: 0}
+  - discoFXPrefab: {instanceID: 0}
+  - createSpecialFXPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
